@@ -1,7 +1,7 @@
 ### Welcome 👋
 I'm a CS student from Germany.
 
-Tools I currently use:
+My current setup:
 - **OS**: Arch Linux
 - **WM**: Hyprland
 - **Notes**: Obsidian, Neovim
