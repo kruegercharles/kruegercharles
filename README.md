@@ -7,4 +7,4 @@ My current setup:
 - **Notes**: Obsidian, Neovim
 - **Editor**: VS-Code, Neovim
 - **Favorite Language**: Python
-- **Languages I currently mainly work with**: C, Typescript, Go
+- **Languages I currently mainly work with**: C, TypeScript, Python
