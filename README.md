@@ -2,10 +2,10 @@
 I'm a Master CS student from Germany.
 
 My current setup:
-- **OS**: Arch Linux
+- **OS**: Arch Linux, btw.
 - **Window Manager**: Hyprland
-- **Notes**: Neovim
 - **Editor**: Neovim
+- **Notes**: Neovim
 - **Terminal**: Kitty
-- **Favorite Language**: Python
-- **Languages I currently mainly work with**: C, TypeScript, Python
+- **Favorite Languages**: Python, Go
+- **Languages I currently mainly work with**: TypeScript, Python, Go
