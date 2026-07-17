@@ -7,5 +7,5 @@ My current setup:
 - **Editor**: Neovim
 - **Notes**: Neovim
 - **Terminal**: Kitty
-- **Favorite Languages**: Python, Go
-- **Languages I currently mainly work with**: TypeScript, Python, Go
+- **Favorite Languages**: Go
+- **Languages I currently mainly work with**: Go, Python, TypeScript
